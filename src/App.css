@@ -1,0 +1,13 @@
+
+
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(-10, 0, 1, 5);
+  }
+  10% {
+    transform: translateY(5%);
+    animation-timing-function: cubic-bezier(0, 0, 0, 0);
+  }
+}
