@@ -52,7 +52,7 @@ function About() {
    
     
 
-<img  className =  'animate-bounce object-contatin p-4 ' src={profile} alt='images '   />
+<img  className =  'element object-contatin p-4 ' src={profile} alt='images '   />
      
 
     
